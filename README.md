@@ -4,7 +4,7 @@ C# background app that can hide other process/window on screenshot and taskbar.
 
 ## How to use
 
-`HideAppHelper` class provides all hide-app features including hide/unhude on screenshot, hide on taskbar, remove title, recover window and so on.
+`HideAppHelper` class provides all hide-app features including hide/unhide on screenshot, hide on taskbar, remove title, recover window and so on.
 
 `HotKeyManager` class provides Global HotKey settings.
 
